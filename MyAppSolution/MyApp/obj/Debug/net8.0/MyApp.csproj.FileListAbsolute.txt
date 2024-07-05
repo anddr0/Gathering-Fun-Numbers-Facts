@@ -1,0 +1,17 @@
+C:\Projects\C#\NumberFacts\MyAppSolution\MyApp\bin\Debug\net8.0\MyApp.exe
+C:\Projects\C#\NumberFacts\MyAppSolution\MyApp\bin\Debug\net8.0\MyApp.deps.json
+C:\Projects\C#\NumberFacts\MyAppSolution\MyApp\bin\Debug\net8.0\MyApp.runtimeconfig.json
+C:\Projects\C#\NumberFacts\MyAppSolution\MyApp\bin\Debug\net8.0\MyApp.dll
+C:\Projects\C#\NumberFacts\MyAppSolution\MyApp\bin\Debug\net8.0\MyApp.pdb
+C:\Projects\C#\NumberFacts\MyAppSolution\MyApp\obj\Debug\net8.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C#\NumberFacts\MyAppSolution\MyApp\obj\Debug\net8.0\MyApp.AssemblyInfoInputs.cache
+C:\Projects\C#\NumberFacts\MyAppSolution\MyApp\obj\Debug\net8.0\MyApp.AssemblyInfo.cs
+C:\Projects\C#\NumberFacts\MyAppSolution\MyApp\obj\Debug\net8.0\MyApp.csproj.CoreCompileInputs.cache
+C:\Projects\C#\NumberFacts\MyAppSolution\MyApp\obj\Debug\net8.0\MyApp.dll
+C:\Projects\C#\NumberFacts\MyAppSolution\MyApp\obj\Debug\net8.0\refint\MyApp.dll
+C:\Projects\C#\NumberFacts\MyAppSolution\MyApp\obj\Debug\net8.0\MyApp.pdb
+C:\Projects\C#\NumberFacts\MyAppSolution\MyApp\obj\Debug\net8.0\MyApp.genruntimeconfig.cache
+C:\Projects\C#\NumberFacts\MyAppSolution\MyApp\obj\Debug\net8.0\ref\MyApp.dll
+C:\Projects\C#\NumberFacts\MyAppSolution\MyApp\bin\Debug\net8.0\RestSharp.dll
+C:\Projects\C#\NumberFacts\MyAppSolution\MyApp\obj\Debug\net8.0\MyApp.csproj.AssemblyReference.cache
+C:\Projects\C#\NumberFacts\MyAppSolution\MyApp\obj\Debug\net8.0\MyApp.csproj.Up2Date

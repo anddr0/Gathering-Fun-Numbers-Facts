@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aFyi3gkLw+w=",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\C#\\NumberFacts\\MyAppSolution\\MyApp\\MyApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\777\\.nuget\\packages\\restsharp\\111.3.0\\restsharp.111.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
