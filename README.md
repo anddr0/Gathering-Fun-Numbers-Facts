@@ -2,8 +2,14 @@
 
 ## Project Overview
 
-**TestExerciseControlant** is a .NET application designed to provide interesting facts about numbers. 
+**TestExerciseControlant** is a .NET application designed to provide interesting facts about numbers and years. 
 The project includes the main application and a comprehensive testing suite to ensure the functionality and reliability of the application.
+#### CLI interface:
+![image](https://github.com/anddr0/.Net-Numbers-Fun-Facts/assets/59768574/261d39a7-1ecd-436d-93e7-3ab444a49598)
+#### Gathering facts:
+![image](https://github.com/anddr0/.Net-Numbers-Fun-Facts/assets/59768574/e8f3659e-8f5d-497f-a42e-0e9f7e728691)
+#### Gathared fact:
+![image](https://github.com/anddr0/.Net-Numbers-Fun-Facts/assets/59768574/ab0fca27-ee66-4462-a847-f383f57db96f)
 
 ## Project Structure
 
